@@ -8,6 +8,12 @@ a:hover {
   text-decoration: none;
 }
 
+.activity {
+  border: 1px solid #2176FF;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .btn {
   background-color: #2176FF;
   border-radius: 2px;
