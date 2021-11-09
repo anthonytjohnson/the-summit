@@ -21,6 +21,17 @@ a:hover {
   cursor: pointer;
 }
 
+.btn:hover {
+  background-color: #ffffff;
+  color: #2176FF;
+  transition: .1s ease-in, background-color .1s ease-in;
+}
+
+.btn:active {
+  font-size: 16px;
+  transition: font-size .1s ease-in-out;
+}
+
 .nav-link {
   text-decoration: none;
 }
